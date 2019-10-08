@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -11,10 +11,10 @@ int main()
 	}
 	if (c >= 3) {
 		d= exp(-2 * t) + f;
-		cout << d;
+		cout << d << endl;
 	}else if (c < 3){
 		d = y - y * y * y;
-		cout << d;
+		cout << d << endl;
 	}
 		
 
