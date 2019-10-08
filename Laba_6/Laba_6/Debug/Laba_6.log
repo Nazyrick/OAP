@@ -1,0 +1,5 @@
+﻿  Laba_6.cpp
+C:\Users\ulase\Downloads\Github\Ulasevich-Nazar\Laba_6\Laba_6\Laba_6.cpp(6,18): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\ulase\Downloads\Github\Ulasevich-Nazar\Laba_6\Laba_6\Laba_6.cpp(6,27): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\ulase\Downloads\Github\Ulasevich-Nazar\Laba_6\Laba_6\Laba_6.cpp(10,9): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  Laba_6.vcxproj -> C:\Users\ulase\Downloads\Github\Ulasevich-Nazar\Laba_6\Debug\Laba_6.exe
