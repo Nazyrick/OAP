@@ -16,7 +16,21 @@ int main()
 		d = y - y * y * y;
 		cout << d << endl;
 	}
-		
+	
+	float x=0, y1=0, z=0, nod;
+	setlocale (LC_CTYPE,  "Russian");
+	cout <<"¬ведите x"<< x << endl; cin >> x;
+	cout <<"¬ведите y"<< y1 << endl; cin >> y1;
+	cout <<"¬ведите z"<< z << endl; cin >> z;
+	for (int i = 1; i <= x; i ++) {
+		if ((int)x % i == 0 && (int)y1 % i == 0 && (int)z % i == 0)
+			nod = i;
+	
+	
+	
+	
+	}
+	cout << nod;
 
 }
 
